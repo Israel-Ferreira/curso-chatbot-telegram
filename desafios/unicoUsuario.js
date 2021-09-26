@@ -23,6 +23,5 @@ bot.start((ctx, next) => {
 
 
 
-bot.start
 
 bot.startPolling()
